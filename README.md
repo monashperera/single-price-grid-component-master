@@ -26,7 +26,7 @@ Mobile Preview
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [monash-single-price-grid-component](https://monash-single-price-grid-component.netlify.app/)
 
 ## My process
 
