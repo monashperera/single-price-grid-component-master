@@ -1,10 +1,19 @@
+@font-face {
+    font-family: 'Karla';
+    src: url('../fonts/Karla-Regular.woff2') format(woff2);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Karla';
+    src: url('../fonts/Karla-Bold.woff2') format(woff2);
+    font-weight: 700;
+}
 *, *::before, *::after {
     box-sizing: border-box;
 }
 
 * {
     margin: 0;
-    font-family: 'Karla', sans-serif;
 }
 
 :root {
@@ -27,6 +36,7 @@
 
 html, body {
     height: 100vh;
+    font-family: 'Karla', sans-serif;
     background-color: var(--light-gray);
 }
 
